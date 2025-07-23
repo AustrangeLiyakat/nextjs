@@ -11,8 +11,9 @@ import Fetchcard from "@/app/fetch/fetchcard"
 function About() {
   return (
    
-  <div className=" m-auto w-[30%] align-middle justify-center items-center">
-   <Fetchcard/>
+  <div className="w-full">
+   
+   <Fetchcard></Fetchcard>
   </div>
    
 
