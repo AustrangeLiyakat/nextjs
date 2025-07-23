@@ -11,7 +11,7 @@ import Fetchcard from "@/app/fetch/fetchcard"
 function About() {
   return (
    
-  <div className="w-full">
+  <div className="w-full flex bg-gray-300">
    
    <Fetchcard></Fetchcard>
   </div>
